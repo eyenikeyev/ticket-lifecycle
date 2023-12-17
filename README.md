@@ -108,4 +108,10 @@ Proceeding from the last section, the issue in our hypothetical Critical Banking
 <img src="https://i.imgur.com/ESXASE8.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Closed tickets can be found under the closed section in our Tickets tab, where information and status of the tickets are archived.
+</p>
+<img src="https://i.imgur.com/9XKpQXd.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <br />
+This is the conclusion of the Ticketing Lifecycles
