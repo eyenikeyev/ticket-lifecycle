@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">osTicket - Ticket Lifecycle Examples</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This tutorial assumes you have completed both the installation and configuration of osTicket<br />
 </p>
 <p>
 <h2>Environments and Technologies Used</h2>
@@ -11,6 +11,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -18,10 +19,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+1.) Intake
+2.) Assignment and Communication
+3.) Working the Issue
+4.) Resolution
 
 <h2>Lifecycle Stages</h2>
 
