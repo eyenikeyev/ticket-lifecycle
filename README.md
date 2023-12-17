@@ -15,17 +15,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Ticket Lifecycle Stages</h2>
-
-1.) Intake
 <p>
-2.) Assignment and Communication
-<p>
-3.) Working the Issue
-<p>
-4.) Resolution
+<ol>
+  <li>Intake</li>
+  <li>Assignment & Communication</li>
+  <li>Working the Issue</li>
+  <li>Resolution</li>
+</ol>
 <p>
 <h2>Lifecycle Stages</h2>
 
