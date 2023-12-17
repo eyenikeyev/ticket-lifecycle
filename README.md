@@ -75,6 +75,7 @@ By going to the Assigned To option, you can assign the ticket to a Team or Agent
 </p>
 <p>
 By going to the link next to SLA Plan to set the SLA Plan from Default SLA to one of our SLA Plans we have created in configuration. For this Business Critical Outage ticket, it'll be set to SEV-A
+</p>
 <img src="https://i.imgur.com/ioWM91F.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
