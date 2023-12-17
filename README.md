@@ -79,6 +79,11 @@ By going to the link next to SLA Plan to set the SLA Plan from Default SLA to on
 <img src="https://i.imgur.com/ioWM91F.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+By going to the link next to Department to set the Department. For this Business Critical Outage ticket, it'll be set from Support to System Adminstrators
+</p>
+<img src="https://i.imgur.com/YzoWRLP.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
