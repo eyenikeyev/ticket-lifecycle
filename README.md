@@ -40,6 +40,7 @@ From the End Users side (Karen Smith), they create a ticket through ostTickets l
 The End User then writes ticket through the Issue Summary and adds a subject and details of the ticket much similiar to writing an email. 
 </p>
 In this example, Karen creates the ticket under the Help Topic of a Business Critical Outage, explaining the mobile baking operation is suffering a 404 error
+</p>
 <p>
 <img src="https://i.imgur.com/RKfGwrM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
