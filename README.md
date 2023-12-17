@@ -94,6 +94,15 @@ The Agent can message the End User through the Ticket Thread to update the User 
 <img src="https://i.imgur.com/9YUHdxc.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+</ul>
+</p>
+
+<br />
+
+<h3>Working the Issue and Resolution</h3>
+
+<p>
+  <ul>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo the statusd tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
