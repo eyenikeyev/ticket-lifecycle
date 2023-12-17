@@ -51,8 +51,13 @@ Priorities have not been set for other incoming tickets such as ticket #788058 w
 </p>
 <img src="https://i.imgur.com/8HPr4dA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+</ul>
+</p>
 
+<h3>Assignment & Communication</h3>
+
+<p>
+  <ul>
 <br />
 
 <p>
