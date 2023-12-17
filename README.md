@@ -70,6 +70,10 @@ By going to the link next to Priority, you are able to set the priority of the t
 <img src="https://i.imgur.com/ffz92Hd.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+By going to the Assigned To option, you can assign the ticket to a Team or Agents.
+<img src="https://i.imgur.com/4p3JJUu.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
