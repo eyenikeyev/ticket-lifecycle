@@ -61,7 +61,9 @@ Priorities have not been set for other incoming tickets such as ticket #788058 w
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The Business Critical Outage ticket by Karen numbered #726296 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks. The Agent is able to message the End User through the Ticket Thread located in the bottom of the ticket page
+</p>
+<img src="https://i.imgur.com/2m55W6d.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
