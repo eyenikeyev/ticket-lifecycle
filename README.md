@@ -103,6 +103,9 @@ The Agent can message the End User through the Ticket Thread to update the User 
 
 <p>
   <ul>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo the statusd tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Proceeding from the last section, the issue in our hypothetical Critical Banking Outage ticket has been resolved from the System Engineering department. The Agent should communicate with the End User using the Ticket Thread and set the status of the ticket from Open to Resolved. After posting the reply the ticket is closed.
 </p>
+<img src="https://i.imgur.com/ESXASE8.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <br />
