@@ -89,6 +89,11 @@ The Ticket Thread section displays the updated information when we make changes 
 <img src="https://i.imgur.com/OtLtJ3E.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket (which is left as Open since we need to work it out
+</p>
+<img src="https://i.imgur.com/9YUHdxc.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo the statusd tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
