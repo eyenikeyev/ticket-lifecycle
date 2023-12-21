@@ -58,7 +58,6 @@ Priorities have not been set for other incoming tickets such as ticket #788058 w
 
 </p>
 
-
 <p>
 The Business Critical Outage ticket by Karen numbered #726296 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks. The Agent is able to message the End User through the Ticket Thread located in the bottom of the ticket page
 </p>
