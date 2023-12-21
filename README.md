@@ -112,4 +112,4 @@ Closed tickets can be found under the closed section in our Tickets tab, where i
 </p>
 <p>
 <br />
-This is the conclusion of the Ticket Lifecycles
+This is the conclusion of the Ticket Lifecycle Examples lab
