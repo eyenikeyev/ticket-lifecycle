@@ -30,7 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Intake</h3>
 
 <p>
-  <ul>
+
 <p>
 From the End Users side (Karen Smith), they create a ticket through ostTickets local host site and fill their information. Select a Help Topic.
 </p>
@@ -57,7 +57,7 @@ Priorities have not been set for other incoming tickets such as ticket #788058 w
 <h3>Assignment & Communication</h3>
 
 <p>
-  <ul>
+
 <br />
 
 <p>
@@ -102,7 +102,7 @@ The Agent can message the End User through the Ticket Thread to update the User 
 <h3>Working the Issue and Resolution</h3>
 
 <p>
-  <ul>
+
 Proceeding from the last section, the issue in our hypothetical Critical Banking Outage ticket has been resolved from the System Engineering department. The Agent should communicate with the End User using the Ticket Thread and set the status of the ticket from Open to Resolved. After posting the reply the ticket is closed.
 </p>
 <img src="https://i.imgur.com/ESXASE8.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
