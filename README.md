@@ -69,7 +69,7 @@ By going to the link next to Priority, you are able to set the priority of the t
 <img src="https://i.imgur.com/ffz92Hd.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-By going to the Assigned To option, you can assign the ticket to a Team or Agents. As an example assign the role to Jane Doe
+By going to the Assigned To option, you can assign the ticket to a Team or Agents. Assign the role to Jane Doe
 <img src="https://i.imgur.com/4p3JJUu.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
