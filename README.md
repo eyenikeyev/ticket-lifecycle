@@ -49,7 +49,7 @@ Karen then creates the ticket and is sent to Agent Jane Doe (which we've set as 
 <p>
 Priorities have not been set for other incoming tickets such as ticket #174883 where end user Ken is requesting an upgrade to Adobe Reader. SLA plans need to be set for these tickets hence why they are all under the priority state of "Normal"
 </p>
-<img src="https://i.imgur.com/8HPr4dA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O04oImP.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 </ul>
 </p>
