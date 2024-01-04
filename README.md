@@ -61,7 +61,7 @@ Priorities have not been set for other incoming tickets such as ticket #174883 w
 <p>
 The Business Critical Outage ticket by Karen numbered #903656 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks. The Agent is able to message the End User through the Ticket Thread located in the bottom of the ticket page
 </p>
-<img src="https://i.imgur.com/2m55W6d.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V1FumyE.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 By going to the link next to Priority, you are able to set the priority of the ticket to Low, Normal, High, or Emergency. As an example set this to Emergency, add in the notes business impacting event.
