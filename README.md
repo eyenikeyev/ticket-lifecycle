@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 From the End Users side (Karen Smith), they create a ticket through osTickets local host site and fill their information. Select a Help Topic.
 </p>
-<img src="https://i.imgur.com/4ujArW4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4ujArW4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The End User then writes ticket through the Issue Summary and adds a subject and details of the ticket much similiar to writing an email. 
@@ -42,7 +42,7 @@ The End User then writes ticket through the Issue Summary and adds a subject and
 In this example, Karen creates the ticket under the Help Topic of a Business Critical Outage, explaining the mobile baking operation is suffering a 404 error
 </p>
 <p>
-<img src="https://i.imgur.com/RKfGwrM.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RKfGwrM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Karen then creates the ticket and is sent to Agent Jane Doe (which we've set as Supreme Admin is able too see all incoming tickets in the configuration tutorial) who views it from the local help desk login
