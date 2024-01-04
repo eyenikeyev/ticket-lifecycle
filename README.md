@@ -59,7 +59,7 @@ Priorities have not been set for other incoming tickets such as ticket #174883 w
 </p>
 
 <p>
-The Business Critical Outage ticket by Karen numbered #726296 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks. The Agent is able to message the End User through the Ticket Thread located in the bottom of the ticket page
+The Business Critical Outage ticket by Karen numbered #903656 is assigned to the Agent Jane Doe. From Jane's perspective, this is how the ticket first looks. The Agent is able to message the End User through the Ticket Thread located in the bottom of the ticket page
 </p>
 <img src="https://i.imgur.com/2m55W6d.png" height="60%"  width="60%" alt="Disk Sanitization Steps"/>
 </p>
