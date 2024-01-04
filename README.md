@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 
 <p>
-From the End Users side (Karen Smith), they create a ticket through ostTickets local host site and fill their information. Select a Help Topic.
+From the End Users side (Karen Smith), they create a ticket through osTickets local host site and fill their information. Select a Help Topic.
 </p>
 <img src="https://i.imgur.com/4ujArW4.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
