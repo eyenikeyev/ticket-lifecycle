@@ -6,14 +6,14 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. This tutorial assumes you have completed both the installation and configuration of osTicket<br />
 </p>
 <p>
-<h2>Environments and Technologies Used</h2>
+<h3>Environments and Technologies Used</h3>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
 - osTicket
 
-<h2>Operating Systems Used </h2>
+<h3>Operating Systems Used </h3>
 
 - Windows 10</b>
 
