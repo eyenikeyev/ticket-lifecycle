@@ -17,7 +17,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Windows 10</b>
 
-<h2>Ticket Lifecycle Stages</h2>
+<h3>Ticket Lifecycle Stages</h3>
 <p>
 <ol>
   <li>Intake</li>
@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <li>Resolution</li>
 </ol>
 <p>
-<h2>Lifecycle Stages</h2>
+<h3>Lifecycle Stages</h3>
 <h3>Intake</h3>
 
 <p>
